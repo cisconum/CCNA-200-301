@@ -27,3 +27,28 @@ Contents (Exam topics):
   6. Automation & Programmability (10%)
     REST APIs, JSON, Python basics
     SDN, controllers
+
+**Шалгалтад орж ирэх магадлал өндөр бодлогууд (simulation lab)
+**1. VLANs & Trunk тохируулах
+2. OSPF-ийн тохиргоо (single-area & multi-area) (EIGRP мөн орж ирэх магадлалтай)
+3. ACL-ийн тохиргоо
+4. NAT-ийн тохиргоо
+5. Wi-Fi-ийн тохиргоо
+
+Шалгалтаас өмнө зайлшгүй мэдэх шаардлагатай агуулга:
+1. VLAN
+2. VTP
+3. DTP
+4. STP
+5. Static routing
+6. Dynamic routing (OSPF, EIGRP, RIP, BGP)
+7. NAT
+8. DHCP
+9. QoS
+10. ACL
+11. VPN (GRE, MPLS)
+12. Firewall
+13. Automation
+14. SDN
+15. Radius, TACACS
+16. 
