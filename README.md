@@ -29,26 +29,32 @@ Contents (Exam topics):
     SDN, controllers
 
 **Шалгалтад орж ирэх магадлал өндөр бодлогууд (simulation lab)
-**1. VLANs & Trunk тохируулах
+**
+1. VLANs & Trunk тохируулах
 2. OSPF-ийн тохиргоо (single-area & multi-area) (EIGRP мөн орж ирэх магадлалтай)
 3. ACL-ийн тохиргоо
 4. NAT-ийн тохиргоо
 5. Wi-Fi-ийн тохиргоо
 
 Шалгалтаас өмнө зайлшгүй мэдэх шаардлагатай агуулга:
-1. VLAN
-2. VTP
-3. DTP
-4. STP
-5. Static routing
-6. Dynamic routing (OSPF, EIGRP, RIP, BGP)
-7. NAT
-8. DHCP
-9. QoS
-10. ACL
-11. VPN (GRE, MPLS)
-12. Firewall
-13. Automation
-14. SDN
-15. Radius, TACACS
-16. 
+1. Cabling
+2. VLAN
+3. VTP
+4. IP addressing (IPv4, IPv6)
+5. DTP
+6. STP
+7. Static routing
+8. Dynamic routing (OSPF, EIGRP, RIP, BGP)
+9. NAT
+10. DNS
+11. NTP
+12. SNMP
+13. DHCP
+14. QoS
+15. ACL
+16. VPN (GRE, MPLS)
+17. Firewall
+18. Automation
+19. SDN
+20. Radius, TACACS
+21. 
